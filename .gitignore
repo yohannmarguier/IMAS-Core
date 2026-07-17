@@ -47,3 +47,4 @@ python/lib/
 /UDA-*/
 .idea
 /graphify-out
+.pytest_cache/
